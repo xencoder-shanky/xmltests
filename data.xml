@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<knobReader>
+	<commonImages>
+		<background>res/img/assets/BG_001.jpg</background>
+		<logo posX="36" posY="0">res/img/assets/Xenium_logo.png</logo>
+		<screenSaverBg posX="709.95" posY="298.05">res/img/assets/Btn_Box.png</screenSaverBg>
+		<nob posX="845.95" posY="493.05">res/img/assets/Button_Steel.png</nob>
+		<screenTxt posX="800.5" posY="343.1">Rotate the knob to discover Xenium Portfolio</screenTxt>
+		<TimeBar posX="0" posY="700">res/img/assets/Progress_bar_long.png</TimeBar>
+	</commonImages>
+	<project>
+		<year>2016</year>
+		<title>360 Virtual Reality</title>
+		<description>With evolving Virtual Reality technology in our daily lives, Manish Malhotra’s Winter Collection in Lakme Fashion Week was shot with 360 degrees Camera’s powered by Xenium Digital Pvt Ltd. With a team of Directors, DOP & technology experts Xenium Digital conceptualized and shot the entire evening using its 4K Camera’s. The VR Rig consist of 5 Cameras that covered the entire event.</description>
+		<thumbnailPath>res/img/assets/Img_Atos.jpg</thumbnailPath>
+		<!-- <thumbnailPath>res\img\sm_0.jpg</thumbnailPath> -->
+		<imagePath>res/img/assets/Img_Atos.jpg</imagePath>
+		<imagePath1>res/img/assets/Img_Atos.jpg</imagePath1>
+		<videoPath></videoPath>
+	</project>
+	<project>
+		<year>2016</year>
+		<title>Cubetile Technology Innovation</title>
+		<description>The World Dental Show, 2016, Asia’s biggest dental event was held in Bandra-Kurla Complex, Mumbai from the 7th to the 9th of October. It is considered as a trade and knowledge sharing platform for the people from the dental field, which includes dental professionals, academicians, scientists, clinicians, research workers and enthusiasts.</description>
+		<thumbnailPath>res/img/assets/Img_Colgate_A.jpg</thumbnailPath>
+		<imagePath>res/img/assets/Img_Colgate_A.jpg</imagePath>
+		<imagePath1>res/img/assets/Img_Colgate_A.jpg</imagePath1>
+		<videoPath></videoPath>
+	</project>
+	<project>
+		<year>2014</year>
+		<title>Virtual Graffiti and Projection Mapping</title>
+		<description>It was NH7’s fifth year in 2014, with great music served up in an easygoing ambiance. It offers audiences music that ranges from global legends to cutting-edge, home-grown Indie music. Mercedes Benz decided toshowcase its new SUV Model GLA-Class, a car that is best in Class, Comfort & Safety at this music fest.</description>
+		<thumbnailPath>res/img/assets/Img_LeMobile_A.jpg</thumbnailPath>
+		<imagePath>res/img/assets/Img_LeMobile_A.jpg</imagePath>
+		<imagePath1>res/img/assets/Img_LeMobile_A.jpg</imagePath1>
+		<videoPath></videoPath>
+	</project>
+	<project>
+		<year>2015</year>
+		<title>Slacklining Challenge</title>
+		<description>These promotions were held over the weekend in R City Mall Ghatkopar and Oberoi Mall in Goregaon. Riddhi Dogra a contestant/actor of Season 6 visited Oberoi Mall on Sunday. Technologies such as Oculus Rift & Kinect camera were used at the event to create a Daring Slacklining challenge for the participants. The event gathered huge crowd of approximately 2000 participants directly participating in the event.</description>
+		<thumbnailPath>res/img/assets/Img_WNS.jpg</thumbnailPath>
+		<imagePath>res/img/assets/Img_WNS.jpg</imagePath>
+		<imagePath1>res/img/assets/Img_WNS.jpg</imagePath1>
+		<videoPath></videoPath>
+	</project>
+	<project>
+		<year>2014</year>
+		<title>Yahoo Digiracer, Renault</title>
+		<description>It is developed in Unity 3D Gaming Engine. The player has to compete against auto controlled Renault Duster in the game. Web version can be played in a browser through arrow keys. The Mobile version can be played through the Gyro sensor. The Mobile version was targeted for the Android platform.</description>
+		<thumbnailPath>res/img/assets/Img_Atos.jpg</thumbnailPath>
+		<imagePath>res/img/assets/Img_WNS.jpg</imagePath>
+		<imagePath1>res/img/assets/Img_WNS.jpg</imagePath1>
+		<videoPath></videoPath>
+	</project>
+	<project>
+		<year>2014</year>
+		<title>Transparent LED, Vivo</title>
+		<description>The newest contender for the world’s slimmest smartphone title, the Vivo X5Max, launched in India on Dec’14. The company has claimed that it used the industry’s thinnest chassis and also claims the handset sports a screen sporting a thickness of just 1.36mm. To support the claim of this Smartphone Company & launch it as a mobile brand in the country, Xenium Digtal was approached to provide its Digital innovation.</description>
+		<thumbnailPath>res/img/assets/Img_Atos.jpg</thumbnailPath>
+		<imagePath>res/img/assets/Img_Atos.jpg</imagePath>
+		<imagePath1>res/img/assets/Img_Atos.jpg</imagePath1>
+		<videoPath></videoPath>
+	</project>
+	<project>
+		<year>2015</year>
+		<title>Multitaction Table, Abbott</title>
+		<description>We all know that pharmaceutical marketing costs are phenomenal. The concept of Consumer and customer in this industry is very complex, In case of Prescription drugs the doctors are the actual customer and the patient is consumer as the sale of drug is affected only by the prescription of doctors. In OTC (Non prescription) drug the patient is the customer as there is no prescription from the doctor</description>
+		<thumbnailPath>res/img/assets/Img_Atos.jpg</thumbnailPath>
+		<imagePath>res/img/assets/Img_Atos.jpg</imagePath>
+		<imagePath1>res/img/assets/Img_Atos.jpg</imagePath1>
+		<videoPath></videoPath>
+	</project>
+	<project>
+		<year>2015</year>
+		<title>270 degree Corporate Presentation</title>
+		<description>Xenium Digital designed and developed Corporate presentation on a 270 degree watchout server using advanced 3d Software. The presentation was displayed in LED with a resolution of more than 14K spread around 190 feet. With this step, team Xenium has developed an experience to curate big data for a Corporate Presentation and develop 3d content like never before</description>
+		<thumbnailPath>res/img/assets/Img_Atos.jpg</thumbnailPath>
+		<imagePath>res/img/assets/Img_Atos.jpg</imagePath>
+		<imagePath1>res/img/assets/Img_Atos.jpg</imagePath1>
+		<videoPath></videoPath>
+	</project>
+</knobReader>
